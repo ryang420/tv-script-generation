@@ -1,1 +1,2 @@
-# tv-script-generation
+介绍
+Udacity 深度学习纳米学位，“生成电视剧剧本”项目
